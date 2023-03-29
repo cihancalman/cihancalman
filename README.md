@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cihan</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
-<h3 align="center">I'm a computer engineering student and on this page, I'll be sharing some information about my projects and learning process on Github.</h3>
+<h3 align="center">and on this page, I'll be sharing some information about my projects and learning process on Github.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
